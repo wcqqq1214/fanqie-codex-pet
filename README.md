@@ -1,7 +1,11 @@
 # Fanqie Codex Pet
 
-Fanqie is a fluffy blue-eyed bicolor cat companion for Codex.
+A cute ragdoll cat Codex pet named Fanqie.
 
-![Fanqie](preview.png)
+![Fanqie idle frame](idle.png)
 
-A Codex v2 custom pet for a calmer workday.
+## How to Use
+
+Just tell Codex:
+
+> I want to install [wcqqq1214/fanqie-codex-pet](https://github.com/wcqqq1214/fanqie-codex-pet).
