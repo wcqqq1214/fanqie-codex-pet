@@ -15,7 +15,9 @@ npx petdex install fanqie
 Or ask Codex:
 
 ```text
-I want to install [wcqqq1214/fanqie-codex-pet](https://github.com/wcqqq1214/fanqie-codex-pet).
+I want to install https://github.com/wcqqq1214/fanqie-codex-pet
 ```
+
+After installation, select Fanqie in Codex's pet picker.
 
 View Fanqie on [Petdex](https://petdex.dev/pets/fanqie).
